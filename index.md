@@ -1,10 +1,6 @@
 ---
 layout: article
 title: "Basic Python Programming"
-# articles:
-#   excerpt_type: html
-#article_header:
-#  type: cover
 header: false
 comment: false
 article_header:
