@@ -62,7 +62,7 @@ comments: true
   }
 </style>
 
-<a class="button button--primary button--rounded button--xl" href="/">HOME</a>
+<a class="button button--primary button--rounded button--xl" href="/ITinerary">HOME</a>
 
 # Python Basics
 ## Introduction

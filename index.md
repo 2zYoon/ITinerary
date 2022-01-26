@@ -175,7 +175,7 @@ Our class consists of three parts:
   - **Dohun Kim**: dohun1607@unist.ac.kr
 
 # Contents
-<div class="grid scale" id="grid_for_list" onclick="location.href='/posts/pythonbasic';">
+<div class="grid scale" id="grid_for_list" onclick="location.href='/ITinerary/posts/pythonbasic';">
   <div class="cell cell--2"><img src="/ITinerary/contents/sample_material/pylogo.png"></div>
   <div class="cell cell--auto">
     <h5 id="h_for_list">1. Python Basics </h5>
@@ -183,7 +183,7 @@ Our class consists of three parts:
   </div>
 </div>
 
-<div class="grid" id="grid_for_list" onclick="location.href='/posts/network';">
+<div class="grid" id="grid_for_list" onclick="location.href='/ITinerary/posts/network';">
   <div class="cell cell--2"><img src="/ITinerary/contents/2020_ITinerary/assets/imgs/Ego_network.png"></div>
   <div class="cell cell--auto">
     <h5 id="h_for_list">2. Network Programming</h5>
@@ -191,7 +191,7 @@ Our class consists of three parts:
   </div>
 </div>
 
-<div class="grid" id="grid_for_list" onclick="location.href='/posts/opencv';">
+<div class="grid" id="grid_for_list" onclick="location.href='/ITinerary/posts/opencv';">
   <div class="cell cell--2"><img src="/ITinerary/contents/2020_ITinerary/assets/imgs/opencv.png"></div>
   <div class="cell cell--auto">
     <h5 id="h_for_list">3. OpenCV</h5>
@@ -199,7 +199,7 @@ Our class consists of three parts:
   </div>
 </div>
 
-<div class="grid" id="grid_for_list" onclick="location.href='posts/pygame';">
+<div class="grid" id="grid_for_list" onclick="location.href='/ITinerary/posts/pygame';">
   <div class="cell cell--2"><img src="/ITinerary/contents/2020_ITinerary/assets/imgs/pygame.png"></div>
   <div class="cell cell--auto">
     <h5 id="h_for_list">4. Pygame</h5>

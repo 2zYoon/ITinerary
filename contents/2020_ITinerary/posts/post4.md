@@ -61,7 +61,7 @@ comments: true
   }
 </style>
 
-<a class="button button--primary button--rounded button--xl" href="/">HOME</a>
+<a class="button button--primary button--rounded button--xl" href="/ITinerary">HOME</a>
 
 # Pygame
 ## Introduction
@@ -77,40 +77,40 @@ comments: true
 
 ##  Pre-class Material
 
-<div class="grid scale" id="grid_for_list" onclick="location.href='/contents/2020_ITinerary/assets/session_4/preclass.pdf';">
-  <div class="cell cell--2"><img src="/contents/2020_ITinerary/assets/imgs/ppt.png"></div>
+<div class="grid scale" id="grid_for_list" onclick="location.href='/ITinerary/contents/2020_ITinerary/assets/session_4/preclass.pdf';">
+  <div class="cell cell--2"><img src="/ITinerary/contents/2020_ITinerary/assets/imgs/ppt.png"></div>
   <div class="cell cell--auto">
     <h5 id="h_for_list">Pre-class PPT</h5>
     <p id="p_for_list">The lecture video is based on this</p>
   </div>
 </div>
 
-<div class="grid scale" id="grid_for_list" onclick="location.href='/contents/2020_ITinerary/assets/session_4/exercise.pdf';">
-  <div class="cell cell--2"><img src="/contents/2020_ITinerary/assets/imgs/write.png"></div>
+<div class="grid scale" id="grid_for_list" onclick="location.href='/ITinerary/contents/2020_ITinerary/assets/session_4/exercise.pdf';">
+  <div class="cell cell--2"><img src="/ITinerary/contents/2020_ITinerary/assets/imgs/write.png"></div>
   <div class="cell cell--auto">
     <h5 id="h_for_list">Exercises</h5>
     <p id="p_for_list">Exercises for you</p>
   </div>
 </div>
 
-<div class="grid scale" id="grid_for_list" onclick="location.href='/contents/2020_ITinerary/assets/session_4/supplement.pdf';">
-  <div class="cell cell--2"><img src="/contents/2020_ITinerary/assets/imgs/books.png"></div>
+<div class="grid scale" id="grid_for_list" onclick="location.href='/ITinerary/contents/2020_ITinerary/assets/session_4/supplement.pdf';">
+  <div class="cell cell--2"><img src="/ITinerary/contents/2020_ITinerary/assets/imgs/books.png"></div>
   <div class="cell cell--auto">
     <h5 id="h_for_list">Supplement</h5>
     <p id="p_for_list">Additional explanation about the topic</p>
   </div>
 </div>
 
-<div class="grid scale" id="grid_for_list" onclick="location.href='/contents/2020_ITinerary/assets/session_4/pygame/sample_solution.zip';">
-  <div class="cell cell--2"><img src="/contents/2020_ITinerary/assets/imgs/idea.png"></div>
+<div class="grid scale" id="grid_for_list" onclick="location.href='/ITinerary/contents/2020_ITinerary/assets/session_4/pygame/sample_solution.zip';">
+  <div class="cell cell--2"><img src="/ITinerary/contents/2020_ITinerary/assets/imgs/idea.png"></div>
   <div class="cell cell--auto">
     <h5 id="h_for_list">Sample Solution for Exercise EX</h5>
     <p id="p_for_list"> .zip file</p>
   </div>
 </div>
 
-<div class="grid scale" id="grid_for_list" onclick="location.href='/contents/2020_ITinerary/assets/session_4/pygame/sample_solution.tar';">
-  <div class="cell cell--2"><img src="/contents/2020_ITinerary/assets/imgs/idea.png"></div>
+<div class="grid scale" id="grid_for_list" onclick="location.href='/ITinerary/contents/2020_ITinerary/assets/session_4/pygame/sample_solution.tar';">
+  <div class="cell cell--2"><img src="/ITinerary/contents/2020_ITinerary/assets/imgs/idea.png"></div>
   <div class="cell cell--auto">
     <h5 id="h_for_list">Sample Solution for Exercise EX</h5>
     <p id="p_for_list"> .tar file</p>
@@ -118,24 +118,24 @@ comments: true
 </div>
 
 ## In-class: Lab Session
-<div class="grid scale" id="grid_for_list" onclick="location.href='/contents/2020_ITinerary/assets/session_4/labsession.pdf';">
-  <div class="cell cell--2"><img src="/contents/2020_ITinerary/assets/imgs/labsession.png"></div>
+<div class="grid scale" id="grid_for_list" onclick="location.href='/ITinerary/contents/2020_ITinerary/assets/session_4/labsession.pdf';">
+  <div class="cell cell--2"><img src="/ITinerary/contents/2020_ITinerary/assets/imgs/labsession.png"></div>
   <div class="cell cell--auto">
     <h5 id="h_for_list">Lab Session PPT</h5>
     <p id="p_for_list">PPT</p>
   </div>
 </div>
 
-<div class="grid scale" id="grid_for_list" onclick="location.href='/contents/2020_ITinerary/assets/session_4/pygame/asset/asset.zip';">
-  <div class="cell cell--2"><img src="/contents/2020_ITinerary/assets/imgs/prog.png"></div>
+<div class="grid scale" id="grid_for_list" onclick="location.href='/ITinerary/contents/2020_ITinerary/assets/session_4/pygame/asset/asset.zip';">
+  <div class="cell cell--2"><img src="/ITinerary/contents/2020_ITinerary/assets/imgs/prog.png"></div>
   <div class="cell cell--auto">
     <h5 id="h_for_list">Skeleton and images (.zip compression)</h5>
     <p id="p_for_list">It should be in your project directory</p>
   </div>
 </div>
 
-<div class="grid scale" id="grid_for_list" onclick="location.href='/contents/2020_ITinerary/assets/session_4/pygame/asset/asset.tar';">
-  <div class="cell cell--2"><img src="/contents/2020_ITinerary/assets/imgs/prog.png"></div>
+<div class="grid scale" id="grid_for_list" onclick="location.href='/ITinerary/contents/2020_ITinerary/assets/session_4/pygame/asset/asset.tar';">
+  <div class="cell cell--2"><img src="/ITinerary/contents/2020_ITinerary/assets/imgs/prog.png"></div>
   <div class="cell cell--auto">
     <h5 id="h_for_list">Skeleton and images (.tar compression)</h5>
     <p id="p_for_list">It should be in your project directory</p>
@@ -158,8 +158,8 @@ comments: true
 
 ## Post-class: Assignment & Supplement
 
-<div class="grid scale" id="grid_for_list" onclick="location.href='/contents/2020_ITinerary/assets/session_4/pygame/sample_solution.py';">
-  <div class="cell cell--2"><img src="/contents/2020_ITinerary/assets/imgs/idea.png"></div>
+<div class="grid scale" id="grid_for_list" onclick="location.href='/ITinerary/contents/2020_ITinerary/assets/session_4/pygame/sample_solution.py';">
+  <div class="cell cell--2"><img src="/ITinerary/contents/2020_ITinerary/assets/imgs/idea.png"></div>
   <div class="cell cell--auto">
     <h5 id="h_for_list">Sample Solution</h5>
     <p id="p_for_list">Poop game</p>

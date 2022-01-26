@@ -61,7 +61,7 @@ comments: true
   }
 </style>
 
-<a class="button button--primary button--rounded button--xl" href="/">HOME</a>
+<a class="button button--primary button--rounded button--xl" href="/ITinerary">HOME</a>
 
 # Network Programming
 ## Introduction
@@ -78,24 +78,24 @@ comments: true
 
 ##  Pre-class Material
 
-<div class="grid scale" id="grid_for_list" onclick="location.href='/contents/2020_ITinerary/assets/session_2/preclass.pdf';">
-  <div class="cell cell--2"><img src="/contents/2020_ITinerary/assets/imgs/ppt.png"></div>
+<div class="grid scale" id="grid_for_list" onclick="location.href='/ITinerary/contents/2020_ITinerary/assets/session_2/preclass.pdf';">
+  <div class="cell cell--2"><img src="/ITinerary/contents/2020_ITinerary/assets/imgs/ppt.png"></div>
   <div class="cell cell--auto">
     <h5 id="h_for_list">Pre-class PPT</h5>
     <p id="p_for_list">The lecture video is based on this</p>
   </div>
 </div>
 
-<div class="grid scale" id="grid_for_list" onclick="location.href='/contents/2020_ITinerary/assets/session_2/exercise.pdf';">
-  <div class="cell cell--2"><img src="/contents/2020_ITinerary/assets/imgs/write.png"></div>
+<div class="grid scale" id="grid_for_list" onclick="location.href='/ITinerary/contents/2020_ITinerary/assets/session_2/exercise.pdf';">
+  <div class="cell cell--2"><img src="/ITinerary/contents/2020_ITinerary/assets/imgs/write.png"></div>
   <div class="cell cell--auto">
     <h5 id="h_for_list">Exercises</h5>
     <p id="p_for_list">Exercises for you</p>
   </div>
 </div>
 
-<div class="grid scale" id="grid_for_list" onclick="location.href='/contents/2020_ITinerary/assets/session_2/supplement.pdf';">
-  <div class="cell cell--2"><img src="/contents/2020_ITinerary/assets/imgs/books.png"></div>
+<div class="grid scale" id="grid_for_list" onclick="location.href='/ITinerary/contents/2020_ITinerary/assets/session_2/supplement.pdf';">
+  <div class="cell cell--2"><img src="/ITinerary/contents/2020_ITinerary/assets/imgs/books.png"></div>
   <div class="cell cell--auto">
     <h5 id="h_for_list">Supplement</h5>
     <p id="p_for_list">Additional explanation about the topic</p>
@@ -103,8 +103,8 @@ comments: true
 </div>
 
 ## In-class: Lab Session
-<div class="grid scale" id="grid_for_list" onclick="location.href='/contents/2020_ITinerary/assets/session_2/labsession.pdf';">
-  <div class="cell cell--2"><img src="/contents/2020_ITinerary/assets/imgs/labsession.png"></div>
+<div class="grid scale" id="grid_for_list" onclick="location.href='/ITinerary/contents/2020_ITinerary/assets/session_2/labsession.pdf';">
+  <div class="cell cell--2"><img src="/ITinerary/contents/2020_ITinerary/assets/imgs/labsession.png"></div>
   <div class="cell cell--auto">
     <h5 id="h_for_list">Lab Session PPT</h5>
     <p id="p_for_list">PPT</p>
@@ -130,16 +130,16 @@ comments: true
 
 ## Post-class: Assignment & Supplement
 
-<div class="grid scale" id="grid_for_list" onclick="location.href='/contents/2020_ITinerary/assets/session_2/net/lab_server.py';">
-  <div class="cell cell--2"><img src="/contents/2020_ITinerary/assets/imgs/idea.png"></div>
+<div class="grid scale" id="grid_for_list" onclick="location.href='/ITinerary/contents/2020_ITinerary/assets/session_2/net/lab_server.py';">
+  <div class="cell cell--2"><img src="/ITinerary/contents/2020_ITinerary/assets/imgs/idea.png"></div>
   <div class="cell cell--auto">
     <h5 id="h_for_list">Sample Solution for the lab session</h5>
     <p id="p_for_list">Server</p>
   </div>
 </div>
 
-<div class="grid scale" id="grid_for_list" onclick="location.href='/contents/2020_ITinerary/assets/session_2/net/lab_client.py';">
-  <div class="cell cell--2"><img src="/contents/2020_ITinerary/assets/imgs/idea.png"></div>
+<div class="grid scale" id="grid_for_list" onclick="location.href='/ITinerary/contents/2020_ITinerary/assets/session_2/net/lab_client.py';">
+  <div class="cell cell--2"><img src="/ITinerary/contents/2020_ITinerary/assets/imgs/idea.png"></div>
   <div class="cell cell--auto">
     <h5 id="h_for_list">Sample Solution for the lab session</h5>
     <p id="p_for_list">Client</p>
