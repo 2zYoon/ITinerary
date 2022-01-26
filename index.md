@@ -117,7 +117,7 @@ Hello, This is team **ITinerary**. In this course, we will learn about the basic
 ## Syllabus
 The syllabus is available [here](/contents/2020_ITinerary/assets/docs/syllabus.pdf).
 
-<img style="border: none;" src="/contents/2020_ITinerary/assets/imgs/announce/a.png">
+<img style="border: none;" src="/ITinerary/contents/2020_ITinerary/assets/imgs/announce/a.png">
 
 ## Announcements
 <details>
@@ -175,24 +175,24 @@ Our class consists of three parts:
   - **Dohun Kim**: dohun1607@unist.ac.kr
 
 # Contents
-<div class="grid scale" id="grid_for_list" onclick="location.href='posts/pythonbasic';">
-  <div class="cell cell--2"><img src="/contents/sample_material/pylogo.png"></div>
+<div class="grid scale" id="grid_for_list" onclick="location.href='/posts/pythonbasic';">
+  <div class="cell cell--2"><img src="/ITinerary/contents/sample_material/pylogo.png"></div>
   <div class="cell cell--auto">
     <h5 id="h_for_list">1. Python Basics </h5>
     <p id="p_for_list">Basic concepts and skills for Python</p>
   </div>
 </div>
 
-<div class="grid" id="grid_for_list" onclick="location.href='posts/network';">
-  <div class="cell cell--2"><img src="/contents/2020_ITinerary/assets/imgs/Ego_network.png"></div>
+<div class="grid" id="grid_for_list" onclick="location.href='/posts/network';">
+  <div class="cell cell--2"><img src="/ITinerary/contents/2020_ITinerary/assets/imgs/Ego_network.png"></div>
   <div class="cell cell--auto">
     <h5 id="h_for_list">2. Network Programming</h5>
     <p id="p_for_list">Networking, client-server model, socket</p>
   </div>
 </div>
 
-<div class="grid" id="grid_for_list" onclick="location.href='posts/opencv';">
-  <div class="cell cell--2"><img src="/contents/2020_ITinerary/assets/imgs/opencv.png"></div>
+<div class="grid" id="grid_for_list" onclick="location.href='/posts/opencv';">
+  <div class="cell cell--2"><img src="/ITinerary/contents/2020_ITinerary/assets/imgs/opencv.png"></div>
   <div class="cell cell--auto">
     <h5 id="h_for_list">3. OpenCV</h5>
     <p id="p_for_list">A computer-vision library for Python</p>
@@ -200,7 +200,7 @@ Our class consists of three parts:
 </div>
 
 <div class="grid" id="grid_for_list" onclick="location.href='posts/pygame';">
-  <div class="cell cell--2"><img src="/contents/2020_ITinerary/assets/imgs/pygame.png"></div>
+  <div class="cell cell--2"><img src="/ITinerary/contents/2020_ITinerary/assets/imgs/pygame.png"></div>
   <div class="cell cell--auto">
     <h5 id="h_for_list">4. Pygame</h5>
     <p id="p_for_list">Python library for game and multimedia</p>

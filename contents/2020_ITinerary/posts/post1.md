@@ -80,24 +80,24 @@ Even if you have no experience in programming, that's okay. We will provide many
 
 ##  Pre-class Material
 
-<div class="grid scale" id="grid_for_list" onclick="location.href='/contents/2020_ITinerary/assets/session_1/preclass.pdf';">
-  <div class="cell cell--2"><img src="/contents/2020_ITinerary/assets/imgs/ppt.png"></div>
+<div class="grid scale" id="grid_for_list" onclick="location.href='/ITinerary/contents/2020_ITinerary/assets/session_1/preclass.pdf';">
+  <div class="cell cell--2"><img src="/ITinerary/contents/2020_ITinerary/assets/imgs/ppt.png"></div>
   <div class="cell cell--auto">
     <h5 id="h_for_list">Pre-class PPT</h5>
     <p id="p_for_list">The lecture video is based on this</p>
   </div>
 </div>
 
-<div class="grid scale" id="grid_for_list" onclick="location.href='/contents/2020_ITinerary/assets/session_1/exercise.pdf';">
-  <div class="cell cell--2"><img src="/contents/2020_ITinerary/assets/imgs/write.png"></div>
+<div class="grid scale" id="grid_for_list" onclick="location.href='/ITinerary/contents/2020_ITinerary/assets/session_1/exercise.pdf';">
+  <div class="cell cell--2"><img src="/ITinerary/contents/2020_ITinerary/assets/imgs/write.png"></div>
   <div class="cell cell--auto">
     <h5 id="h_for_list">Exercises</h5>
     <p id="p_for_list">Exercises for you</p>
   </div>
 </div>
 
-<div class="grid scale" id="grid_for_list" onclick="location.href='/contents/2020_ITinerary/assets/session_1/supplement.pdf';">
-  <div class="cell cell--2"><img src="/contents/2020_ITinerary/assets/imgs/books.png"></div>
+<div class="grid scale" id="grid_for_list" onclick="location.href='/ITinerary/contents/2020_ITinerary/assets/session_1/supplement.pdf';">
+  <div class="cell cell--2"><img src="/ITinerary/contents/2020_ITinerary/assets/imgs/books.png"></div>
   <div class="cell cell--auto">
     <h5 id="h_for_list">Supplement</h5>
     <p id="p_for_list">Additional explanation about the topic</p>
@@ -105,16 +105,16 @@ Even if you have no experience in programming, that's okay. We will provide many
 </div>
 
 ## In-class: Lab Session
-<div class="grid scale" id="grid_for_list" onclick="location.href='/contents/2020_ITinerary/assets/session_1/labsession.pdf';">
-  <div class="cell cell--2"><img src="/contents/2020_ITinerary/assets/imgs/labsession.png"></div>
+<div class="grid scale" id="grid_for_list" onclick="location.href='/ITinerary/contents/2020_ITinerary/assets/session_1/labsession.pdf';">
+  <div class="cell cell--2"><img src="/ITinerary/contents/2020_ITinerary/assets/imgs/labsession.png"></div>
   <div class="cell cell--auto">
     <h5 id="h_for_list">Lab Session PPT</h5>
     <p id="p_for_list">PPT</p>
   </div>
 </div>
 
-<div class="grid scale" id="grid_for_list" onclick="location.href='/contents/2020_ITinerary/assets/session_1/lab.tar';">
-  <div class="cell cell--2"><img src="/contents/2020_ITinerary/assets/imgs/prog.png"></div>
+<div class="grid scale" id="grid_for_list" onclick="location.href='/ITinerary/contents/2020_ITinerary/assets/session_1/lab.tar';">
+  <div class="cell cell--2"><img src="/ITinerary/contents/2020_ITinerary/assets/imgs/prog.png"></div>
   <div class="cell cell--auto">
     <h5 id="h_for_list">Lab Session</h5>
     <p id="p_for_list">.tar skeleton code</p>
@@ -122,8 +122,8 @@ Even if you have no experience in programming, that's okay. We will provide many
 </div>
 
 
-<div class="grid scale" id="grid_for_list" onclick="location.href='/contents/2020_ITinerary/assets/session_1/lab.zip';">
-  <div class="cell cell--2"><img src="/contents/2020_ITinerary/assets/imgs/prog.png"></div>
+<div class="grid scale" id="grid_for_list" onclick="location.href='/ITinerary/contents/2020_ITinerary/assets/session_1/lab.zip';">
+  <div class="cell cell--2"><img src="/ITinerary/contents/2020_ITinerary/assets/imgs/prog.png"></div>
   <div class="cell cell--auto">
     <h5 id="h_for_list">Lab Session</h5>
     <p id="p_for_list">.zip skeleton code</p>
@@ -148,16 +148,16 @@ Even if you have no experience in programming, that's okay. We will provide many
 
 ## Post-class: Sample Solution
 
-<div class="grid scale" id="grid_for_list" onclick="location.href='/contents/2020_ITinerary/assets/session_1/sample_solution.tar';">
-  <div class="cell cell--2"><img src="/contents/2020_ITinerary/assets/imgs/idea.png"></div>
+<div class="grid scale" id="grid_for_list" onclick="location.href='/ITinerary/contents/2020_ITinerary/assets/session_1/sample_solution.tar';">
+  <div class="cell cell--2"><img src="/ITinerary/contents/2020_ITinerary/assets/imgs/idea.png"></div>
   <div class="cell cell--auto">
     <h5 id="h_for_list">Sample Solution for the lab session</h5>
     <p id="p_for_list"> .tar file</p>
   </div>
 </div>
 
-<div class="grid scale" id="grid_for_list" onclick="location.href='/contents/2020_ITinerary/assets/session_1/sample_solution.zip';">
-  <div class="cell cell--2"><img src="/contents/2020_ITinerary/assets/imgs/idea.png"></div>
+<div class="grid scale" id="grid_for_list" onclick="location.href='/ITinerary/contents/2020_ITinerary/assets/session_1/sample_solution.zip';">
+  <div class="cell cell--2"><img src="/ITinerary/contents/2020_ITinerary/assets/imgs/idea.png"></div>
   <div class="cell cell--auto">
     <h5 id="h_for_list">Sample Solution for the lab session</h5>
     <p id="p_for_list"> .zip file</p>
