@@ -118,11 +118,7 @@ sharing:
 ## => Comments
 ##############################
 comments:
-  provider: "disqus" # false (default), "disqus", "gitalk", "valine", "custom"
-
-  ## Disqus
-  disqus:
-    shortname: eunseongpark # the Disqus shortname for the site
+  provider: false # false (default), "disqus", "gitalk", "valine", "custom"
 
   ## Gitalk
   # please refer to https://github.com/gitalk/gitalk for more info.
